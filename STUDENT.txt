@@ -1,2 +1,2 @@
-APP_URL=<url_aplikasi>
-MAP_SERVICE_API_KEY=WOLhojNmWVXW2FAaiLEC
+APP_URL=https://saefulsuryadilaga.github.io/storyapp
+MAP_SERVICE_API_KEY=<api_key>
